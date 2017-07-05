@@ -1,3 +1,3 @@
 # Responsive-Portfolio
 
-Responsive Portfolio using Media Queries
+Responsive Portfolio Template created with custom CSS and HTML
